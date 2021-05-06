@@ -38,7 +38,7 @@ Your active participation is essential to making this course successful and enjo
 * Use Slack to help each other out with questions on the assignments and projects.
 
 ## Graded assignments
-**Weekly homeworks** (25%). Each homework will be posted on Monday and due at 5pm on the following Monday. You must submit at least 6 out of 8 homeworks on time (but please do them all). *We'll spend time in class on Thursday working through the assignment, so please make a start on it before then.*
+**Weekly homeworks** (25%). Each homework will be posted on Monday and due at 5pm on the following Monday. You must submit at least 4 out of 5 homeworks on time (but please do them all). *We'll spend time in class on Thursday working through the assignment, so please make a start on it before then.*
 
 **Challenge problems** (25%). Most homeworks will include a challenge problem, which is more open ended. You must do at least 2 of these, and present one in class.
 
@@ -88,8 +88,9 @@ Pre-course:
 [Week 5: Natural language processing (1): parsing](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks5-6)
 * *Guest: Zachary Steinert-Threlkeld, Department of Public Policy, UCLA (April 27)*
 
-Week 6: Natural language processing (2): sentiment analysis
+Week 6: Natural language processing (2): [topic modeling and sentiment analysis](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks5-6)
 * *Guest: Claudia Preciado, Remix (May 4)*
+* [Homework](https://classroom.github.com/a/HpWxYxUR), due 5pm, May 17
 
 Week 7: Machine learning (1): supervised algorithms
 
